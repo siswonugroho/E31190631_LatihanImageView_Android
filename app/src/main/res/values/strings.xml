@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Image Opener</string>
+    <string name="open_camera">Ambil gambar</string>
+    <string name="open_gallery">Pilih dari galeri</string>
+</resources>
